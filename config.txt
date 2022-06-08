@@ -1,0 +1,9 @@
+PROJECT=Coccidioides
+OUTGROUP=CHANGEME #Needed only if you want it to do rooted tree building
+DOMAINS=domains
+PROTEINS=pep
+CODING=cds
+ORTHOINPUT=input
+EXT=proteins.fa
+INFLATION=15 #I 1.5
+COMPAREFOLDER=../Comparative_pipeline
